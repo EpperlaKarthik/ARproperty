@@ -8,4 +8,9 @@ The one with a QR code is the revised advertisement in which both the images pre
 The app is given in the apk format.
 
 
-Make sure you are using an android device that supports vuforia augmented reality and the minimum api level is 26.
+Make sure you are using an android device that supports vuforia augmented reality and the minimum api level is 26 , internet is turned on.
+
+Image 1 for video.
+Image 2 for AR Experience.
+
+There might be a delay in video to play , hence press the play button 3-4 times if it doesnot play in the first attempt. 
