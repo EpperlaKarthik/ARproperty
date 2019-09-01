@@ -14,3 +14,6 @@ Image 1 for video.
 Image 2 for AR Experience.
 
 There might be a delay in video to play , hence press the play button 3-4 times if it doesnot play in the first attempt. 
+
+
+Downlaod the app from : https://drive.google.com/file/d/1V63vo6WYIvaY2alZQkKYrBiCXlVRjJ0j/view?usp=sharing
